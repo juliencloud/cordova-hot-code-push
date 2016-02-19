@@ -1,0 +1,13 @@
+{
+  "name": "cordova-hot-code-push",
+  "version": "1.0.0",
+  "description": "Hot code push / remote update mechanism for Cordova apps",
+  "dependencies": {
+    "async": "https://registry.npmjs.org/async/-/async-0.9.0.tgz",
+    "cordova": "^4.3.0",
+    "mkdirp": "^0.5.1",
+    "spark-md5": "0.0.5"
+  },
+  "devDependencies": {},
+  "author": "Julien Cloud"
+}
